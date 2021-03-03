@@ -1,6 +1,6 @@
 # Matheus-Silva
 
-Contatos: (+351)930667199
+Contatos: (+351)911088376
 
 Email: matheusds.sousa@gmail.com
 
@@ -10,7 +10,7 @@ Linkedin: https://www.linkedin.com/in/matheusds-sousa
 
 Olá !
 
--Estudos: Atualmente estudando Java, Javascript, CSS, HTML (Desenvolvimento web) e T-SQL;
+-Estudos: Atualmente estudando .Net/.Net Core, JavaScript, CSS, HTML (Desenvolvimento web) e T-SQL;
 
 -Trabalho: Disponível para novos desafios;
 
